@@ -29,6 +29,6 @@ Las transformaciónes logaritmicas se implementan con la siguiente expresión:
 
 Donde **C** es una constante positiva
 
-La forma de esta transformada es similar a la de la curva (Gamma) $\gamma$, aunque ___la curva en (Gamma) $\gamma$ es variable y ésta no lo es___
+La forma de esta transformada es similar a la de la curva (Gamma) $\gamma$, aunque ___la curva en $\gamma$ es variable y ésta no lo es___
 
 <a href="https://github.com/ArturoEmmanuelToledoAguado/Trans-Logaritmica">Código</a>
