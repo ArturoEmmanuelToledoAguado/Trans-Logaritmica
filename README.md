@@ -1,5 +1,5 @@
 # Introducción 📖
-Se propone realizar un programa que pueda realizar diferentes pruebas de ajuste del histograma con diferentes rangos y diferentes imágenes en escala de grises y a color con la finalidad de mejorar las imágenes
+Se propone realizar un programa que pueda realizar pruebas con la transformación logaritmica en diferentes imágenes para resaltar algún objeto
 
 ## ¿Qué es el procesamiento digital de imagenes (PDI)? 🤷‍♂️🤷‍
 PDI se puede definir como el conjunto de procesamientos que se realizan sobre una imagen digital ya sea para realizar su almacenamiento, transmisión o tratamiento.
